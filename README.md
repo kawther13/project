@@ -1,2 +1,2 @@
 # project
-pwsscrt
+my project
